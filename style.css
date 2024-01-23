@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: black;
+    color: white;
+  }
+  canvas{
+    background: rgb(241,242,255);
+    background: linear-gradient(0deg, rgba(241,242,255,1) 0%, rgba(255,243,243,1) 100%);
+    border: 0px black;
+  }
+  
+  #scoreboard{
+    height: 10vh;
+    color: white;
+  }
+  
+  h4{
+    font-size: 25px;
+  }
